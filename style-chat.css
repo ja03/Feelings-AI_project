@@ -147,7 +147,7 @@ background-image: url('./media/img1.png');
     /* margin: 48px; */
     font-size: var(--font-size2);
     text-transform: capitalize;
-    height: 80vh;
+    height: auto;
 }
 .part4-chat p{
     margin:48px 48px 0px;
